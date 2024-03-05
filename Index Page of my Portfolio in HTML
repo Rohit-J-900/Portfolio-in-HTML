@@ -8,7 +8,7 @@
 <body bgcolor="aqua">
     <center><img src="C:\Users\ROHIT Official\OneDrive\Desktop\Portfolio in HTML\1.jpg" width="1470px" height="350px"></center> 
     <h1><center><b>Rohit's Portfolio Contents</b></center><h1>
-    <b><hr></b> 
+    <b><hr></b>
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Bio_icon.jpg" width="80px" height="45px">  <a href="R:\OFFICIAL\Project\Portfolio_in_HTML\Biographical information.html" target="_blank">Biographical Information</a> <br>
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Education_and_certification_icon.png" width="80px" height="50px">  <a href="R:\OFFICIAL\Project\Portfolio_in_HTML\Education and Certifications.html" target="_blank">Education and Certifications</a> <br>           
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Experience_and_skills_icon.png" width="80px" height="50px"> <a href="R:\OFFICIAL\Project\Portfolio_in_HTML\Experience and Skills.html" target="_blank">Experience and Skills</a> <br>
