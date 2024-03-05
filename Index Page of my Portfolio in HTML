@@ -11,4 +11,7 @@
     <b><hr></b>
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Bio_icon.jpg" width="80px" height="45px">  <a href="R:\OFFICIAL\Project\Portfolio_in_HTML\Biographical information.html" target="_blank">Biographical Information</a> <br>
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Education_and_certification_icon.png" width="80px" height="50px">  <a href="R:\OFFICIAL\Project\Portfolio_in_HTML\Education and Certifications.html" target="_blank">Education and Certifications</a> <br>           
+    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Experience_and_skills_icon.png" width="80px" height="50px"> <a href="R:\OFFICIAL\Project\Portfolio_in_HTML\Experience and Skills.html" target="_blank">Experience and Skills</a> <br>
+    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Resume_icon.png" width="80px" height="45px">  <a href="R:\OFFICIAL\Certificates\Official Resume.pdf" target="_blank">Resume</a> <br>
+    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Connect_us_icon.png" width="75px" height="45px">  Connect Me <a href="https://linkedin.com/in/rohit-j-a329b3256" target="_blank"> <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Linkedin_icon.png" width="80px" height="50px"></a>     <a href="https://github.com/Rohit-J-900" target="_blank"> <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\GitHub_icon.png" width="80px" height="50px"></a>            <a href="https://instagram.com/appu_kingmaker" target="_blank"> <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Instagram_icon.jpeg" width="63px" height="45px"></a>                     <br>
 </body>
