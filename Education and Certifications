@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education and Certifications</title>
+</head>
+<body>
+    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Border1.jpg" width="1457px" height="70px">  
+    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Border1.jpg" width="70px" height="2900px" align="left">
+    <h1><center><u>EDUCATION</u></center></h1>
+    <center><img src="R:\OFFICIAL\Project\Portfolio_in_HTML\College_photo.jpg" width="1050px" height="300px"> </center> <br>
+    <center><h2> Indian Academy Degree College, Hennur cross, Bengaluru, Karnataka</h2></center>
+    <center><h3>Bachelor of Computer Applications - 74%</h3></center>
+    <center>June 2019 - July 2022</center>
+    <pre><h3>  Rohit was the President of Computer Science Department in the final year, he had took more responsibilities in managing several club events, every week he used to 
+  conduct seminars on Comuter Science topics.
+  He had also performed many seminars on topics like Internet of things, Artificial Inteligence, Programming languages sessions.</h3></pre>
+  <hr>
+  <h1><center><u>CERTIFICATIONS</u></center></h1>
+  <h3> <center> Data Science with R Programming</center> </h3>
+  <center><img src="R:\OFFICIAL\Project\Portfolio_in_HTML\R-pgming-2nd-certificate\R pgming 2nd certificate_page-0001.jpg" width="750px" height="400px"></center> <br>
+  <hr>
+  <h3> <center> Nasscom Digital 101</center> </h3>
+  <center><img src="R:\OFFICIAL\Project\Portfolio_in_HTML\nasscom-certificate\nasscom certificate_page-0001.jpg" width="750px" height="400px"></center> 
+  <hr>
+  <h3> <center> Ethical Hacking</center> </h3>
+  <center><img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Uptoskills_page-0001.jpg" width="750px" height="400px"></center> 
+  <hr>
+  <h3> <center> R Programming Language</center> </h3>
+  <center><img src="R:\OFFICIAL\Project\Portfolio_in_HTML\R-pgming-certificate\R pgming certificate_page-0001.jpg" width="750px" height="600px"></center> 
+  <hr>
+</body>
+</html>
