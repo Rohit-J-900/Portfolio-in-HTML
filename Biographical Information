@@ -8,7 +8,7 @@
 <body bgcolor="white">
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Border1.jpg" width="1457px" height="70px">  
     <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Border1.jpg" width="70px" height="700px" align="left">
-    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Casual Picture.jpg" width="390px" height="400px" align="right">
+    <img src="R:\OFFICIAL\Project\Portfolio_in_HTML\Casual Picture.jpg" width="390px" height="400px" align="right"> 
     <h1><center>Rohit's Biography</center></font></h1>
     <hr>
     <h2><pre> Rohit J is currently persuing an Internship as a Full stack Developer specializing in 
